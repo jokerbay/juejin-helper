@@ -3,11 +3,7 @@
     <img src="./resources/logo.svg" alt="稀土掘金" width="260" />
   </a>
 </section>
-额
 <h1 align="center">JuejinHelper-稀土掘金助手</h1>
-
-<p align="center">签到、抽奖、沾喜气、消除Bug、海底掘金游戏、自动化工作流。</p>
-
 ## 如何使用?
 使用自动化工作流有两种方式：快速使用(在线) 和 私有化部署(本地)
 
@@ -51,14 +47,3 @@
 
 DevTools截图:
 <img width="1156" alt="getcookie" src="./resources/getcookie.png">
-
-
-
-## 贡献
-
-这个项目的存在要感谢所有做出贡献的人。 请先阅读 [[Contribute](CONTRIBUTING.md)]。  
-您可以将任何想法作为 [拉取请求](https://github.com/iDerekLi/juejin-helper/pulls) 或 [GitHub问题](https://github.com/iDerekLi/juejin-helper/issues) 提交。
-
-
-
-[MIT](./LICENSE)
