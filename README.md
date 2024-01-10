@@ -10,7 +10,7 @@
 - 快速使用自动化：[阅读 使用](#使用)
 - 私有化部署自动化：[见 workflows](./workflows/README.md)
 - 除上诉两种之外，如您喜欢也可以自定义脚本：[npm juejin-helper](https://www.npmjs.com/package/juejin-helper)
-
+<test>
 ## 使用
 
 自动化执行任务: 掘金每日签到, 沾喜气, 免费抽奖, 消除Bug, 海底掘金游戏, 最后将结果报告邮件通知订阅人。\
