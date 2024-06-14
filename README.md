@@ -3,9 +3,6 @@
     <img src="./resources/logo.svg" alt="稀土掘金" width="260" />
   </a>
 </section>
-<h1 align="center">JuejinHelper-稀土掘金助手</h1>
-## 如何使用?
-使用自动化工作流有两种方式：快速使用(在线) 和 私有化部署(本地)
 
 ## 使用
 
