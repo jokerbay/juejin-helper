@@ -7,6 +7,9 @@
 ## 使用
 掘金总冠军
 
+
+uyuyuyu
+
 1. [Fork 仓库](https://github.com/iDerekLi/juejin-helper)
 
 2. 仓库 -> Settings -> Secrets -> New repository secret, 添加Secrets变量如下:
